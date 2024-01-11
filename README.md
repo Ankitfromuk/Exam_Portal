@@ -1,4 +1,4 @@
-![Screenshot (3)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/81d0b400-4a01-4b49-8304-d1d7f92c4a0b)
+
 # Online Exam Portal
 
 The Online Exam Portal will permit to take and give online examination.and this web application for online MCQ test usecase.The main users of the project are Student or Member and system Administrator.
