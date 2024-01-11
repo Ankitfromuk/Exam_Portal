@@ -25,6 +25,7 @@ The Online Exam Portal will permit to take and give online examination.and this 
 
 
 ## Admin Module :
+![Screenshot (10)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/9907c66b-d4ab-4e17-810b-49bc3e7cad50)
 
 1 : Create and manage Student Users.
 
