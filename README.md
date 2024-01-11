@@ -17,10 +17,11 @@ The Online Exam Portal will permit to take and give online examination.and this 
 4. ![Screenshot (3)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/1ebbf1a7-d58d-48a3-81bc-cbc0ef04ffb0)
 
 5. After login user can view Test Details.
- 
-6. Give Test.
+6.  ![Screenshot (9)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/e73dbb83-26e4-4eea-912e-000d9fadc8d2)
 
-7. Check Result and Correct answer and explanation for questions.
+7. Give Test.
+
+8. Check Result and Correct answer and explanation for questions.
 
 
 ## Admin Module :
