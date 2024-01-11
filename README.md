@@ -11,14 +11,15 @@ The Online Exam Portal will permit to take and give online examination.and this 
 ## User Module :
 
 1. Registartion Module : In this module user can Registartion to the website by entering userId,userName,userEmail,password and contect.
+2. ![Screenshot (8)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/9696a37a-c2fa-4c3e-b1aa-7d0bcbbd6d28)
 
-2. Login Module : In this module user can login by entering  by userName and password. after login the System links to profile page.
+3. Login Module : In this module user can login by entering  by userName and password. after login the System links to profile page.
 
-3. After login user can view Test Details.
+4. After login user can view Test Details.
  
-4. Give Test.
+5. Give Test.
 
-5. Check Result and Correct answer and explanation for questions.
+6. Check Result and Correct answer and explanation for questions.
 
 
 ## Admin Module :
