@@ -17,7 +17,7 @@ The Online Exam Portal will permit to take and give online examination.and this 
 
 3. After login user can view Test Details.
  
-4 .Give Test.
+4. Give Test.
 
 5. Check Result and Correct answer and explanation for questions.
 
