@@ -30,7 +30,11 @@ The Online Exam Portal will permit to take and give online examination.and this 
 1 : Create and manage Student Users.
 
 2: Create and manage Subjects.
+![Screenshot (12)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/c6af9d5a-d81c-4783-8a10-c335a0c0dc6e)
 
+![Screenshot (13)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/2e606667-c1da-4494-9c9b-86aa4c8ff7ca)
+
+![Screenshot (11)](https://github.com/Ankitfromuk/Exam_Portal/assets/102663695/0bb82c3e-5498-48f7-bce5-a4f3a912d36e)
 
 ## Tech Stack :
 
