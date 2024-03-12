@@ -40,6 +40,6 @@ The Online Exam Portal will permit to take and give online examination.and this 
 
 1. Frontend : HTML5,CSS3,Bootstrap,Angular.
 
-2. Backend : Spring Framework.
+2. Backend : Spring Framework. J2EE/JAVA 1.8 
 
 3. Database : MySql.
